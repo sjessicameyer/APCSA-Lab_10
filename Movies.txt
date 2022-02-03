@@ -1,0 +1,8 @@
+1700, On American Independence, George Washington, Drama, 1, The Founding Fathers
+1500, Los Conquistadors Quieren Oro, Christopher Columbus, Foreign, 5, King of Spain, Queen of Spain, Christopher Columbus, The Spanish, The Aztecs
+1600, The Puritan Invasion, John Winthrop, Adventure, 9, Puritan #1, Puritan #2, Puritan #3, Puritan #4, Puritan #5, Puritan #6, Puritan #7, Puritan #8, John Winthrop
+1600, The Devil do be in Salem, Abigail Williams, Adventure, 5, Puritan #1, Puritan #2, Puritan #3, John Proctor, Abigail Williams
+1800, Delicate Ladies of the Victorian Era, Queen Victoria, Romance, 4, Queen Victoria, Lady-in-Waiting #1, Lady-in-Waiting #2, Children
+1900, **--** THE COLD WAR **--**, xX-Some_Historian-Xx, Thriller, 2, U.S., Russia
+1400, Making the Guttenberg Bible, Johannes Guttenberg, Documentary, 1, Johannes Guttenberg
+1300, Scarce Times: The Europeon Famine, Eyewitness News, Historical Fiction, 4, Poor, Hungry, Cats, Dogs
