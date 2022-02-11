@@ -1,0 +1,30 @@
+{
+  "files": {
+    "Lab_10.java": [
+      {
+        "id": "bec9cc52-ed69-4d4e-bf3d-3f2762406b19",
+        "line": 105,
+        "version": 6389,
+        "index": 2962
+      },
+      {
+        "id": "0b38b93f-30f0-4953-884e-4b7e10a1e4a8",
+        "line": 121,
+        "version": 6389,
+        "index": 3475
+      },
+      {
+        "id": "d742eb09-55b6-4b6e-b658-1aaf8b28780e",
+        "line": 128,
+        "version": 6389,
+        "index": 3664
+      },
+      {
+        "id": "598d8387-5077-42c8-865a-69e2b30e5e0c",
+        "line": 132,
+        "version": 6389,
+        "index": 3839
+      }
+    ]
+  }
+}

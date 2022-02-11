@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Movie {
+public class Movie { //implements Comparable<Movie>{
   
   private int year;
   private String title;
@@ -73,10 +73,9 @@ public class Movie {
     return false;
   }
 
-  //TODO: check if works properly
   public int compareTo(Movie this2){
     if (this.getYear()==this2.getYear())
-      return this.compareTo(this2);
+      return this2.getTitle().compareTo(this.getTitle());
     return this2.getYear()-this.getYear();
   }
 
